@@ -7,7 +7,7 @@
 
 name: Java CI with Gradle
 
-
+#new trails
 on:
   push:
     branches: [ "master" ]
